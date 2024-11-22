@@ -1,23 +1,27 @@
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
+1. I'm a Frontend, Backend, and Infrastructure Engineer from Japan.
+2. My favorite technologies are React, TypeScript, Docker, AWS, OpenGL, and I enjoy exploring many other tools and frameworks.
+3. I have experience with a wide variety of languages and tools, from React to OpenGL.
+4. I'm always experimenting with new technologies, especially in the world of web development and cloud infrastructure.
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
-
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
-
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,c++,java" /> <br /><br />
 
-## Frameworks and Library
+## Frameworks and Libraries
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,vue,next,express,flask,fastapi,kivy,openal" /> <br /><br />
 
-## DB and Dev Tools etc
+## Databases and Dev Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,aws,azure,linux,vscode,nginx,heroku" /> <br /><br />
+
+## Special Interests
+
+- **Cloud Services**: AWS, Azure, Heroku
+- **3D Graphics & Game Development**: OpenGL, OpenAL, GLFW, GLEW
+- **Web Development**: React, Vue.js, TypeScript, Docker
+- **LLMs (Large Language Models)**: Always experimenting with AI and machine learning frameworks.
