@@ -9,17 +9,21 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,c++,java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,c,cpp" /> <br /><br />
 
 ## Frameworks and Libraries
 
-<img src="https://skillicons.dev/icons?i=react,vue,next,express,flask,fastapi,kivy,openal" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,express,nestjs,fastapi" /> <br /><br />
 
 ## Databases and Dev Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,aws,azure,linux,vscode,nginx,heroku" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,aws,linux,vscode,nginx,heroku" /> <br /><br />
 
 ## Special Interests
+
+- 3DGame
+- I made this with c,c++,opengl,openal,glfw,...
+- ![](https://www.youtube.com/watch?v=Krsq-n87kZA&list=LL&index=1)
 
 - **Cloud Services**: AWS, Azure, Heroku
 - **3D Graphics & Game Development**: OpenGL, OpenAL, GLFW, GLEW
