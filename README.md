@@ -22,10 +22,10 @@
 ## Special Interests
 
 - 3DGame
-- I made this with c,c++,opengl,openal,glfw,...
-- ![](https://www.youtube.com/watch?v=Krsq-n87kZA&list=LL&index=1)
+- I made this game with c,c++,opengl,openal,glfw,...
+https://youtu.be/Krsq-n87kZA?si=b0Jo9gsYRmsTTRML
 
-- **Cloud Services**: AWS, Azure, Heroku
+- **Cloud Services**: AWS, Heroku
 - **3D Graphics & Game Development**: OpenGL, OpenAL, GLFW, GLEW
 - **Web Development**: React, Vue.js, TypeScript, Docker
 - **LLMs (Large Language Models)**: Always experimenting with AI and machine learning frameworks.
