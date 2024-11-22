@@ -5,7 +5,7 @@
 3. I have experience with a wide variety of languages and tools, from React to OpenGL.
 4. I'm always experimenting with new technologies, especially in the world of web development and cloud infrastructure.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerzgit)](https://github.com/nerzgit/github-readme-stats)
 
 ## Programming Languages
 
