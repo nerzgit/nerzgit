@@ -5,7 +5,7 @@
 3. I have experience with a wide variety of languages and tools, from React to OpenGL.
 4. I'm always experimenting with new technologies, especially in the world of web development and cloud infrastructure.
 5. Now, I'm member of helpfeel
-6. And, I'm joined [AyProject](https://ay-home-b59627f95a12.herokuapp.com/).
+6. And, I'm joined [AyProject](https://nerzgit.github.io/).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerzgit)](https://github.com/nerzgit/github-readme-stats)
 
