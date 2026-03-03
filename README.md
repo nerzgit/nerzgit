@@ -7,7 +7,6 @@
 5. Now, I'm member of helpfeel
 6. And, I'm joined [AyProject](https://nerzgit.github.io/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerzgit)](https://github.com/nerzgit/github-readme-stats)
 
 ## Programming Languages
 
